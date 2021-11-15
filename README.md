@@ -4,7 +4,7 @@ PROJECT TITLE: Robot Politician
 
 PURPOSE OF PROJECT: Create a chatbot which acts as a political candidate to determine the political leaning of the person it is talking with.
 
-VERSION or DATE: Last updated 11/14/2021
+DATE OF LAST UPDATE: 11/14/2021
 
 HOW TO START THIS PROJECT: Download the project folder and run the Main.java.
 
